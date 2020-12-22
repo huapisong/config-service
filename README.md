@@ -1,2 +1,2 @@
 # config-service
-masterA
+masterA aa	
